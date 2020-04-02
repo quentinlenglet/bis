@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "color": "#0000ff", "title": "Paris", "description": "France" }, "geometry": { "type": "Point", "coordinates": [ 2.492286, 48.844174 ] } }
+,
+{ "type": "Feature", "properties": { "color": "#ff0000", "title": "Madrid", "description": "description" }, "geometry": { "type": "Point", "coordinates": [ -3.688136, 40.312541 ] } }
+,
+{ "type": "Feature", "properties": { "color": "#ff0000", "title": "London", "description": "United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -0.324109, 51.554886 ] } }
+,
+{ "type": "Feature", "properties": { "color": "#ff0000", "title": "Lisboa", "description": "Portugal" }, "geometry": { "type": "Point", "coordinates": [ -9.281809, 38.768028 ] } }
+
+]
+}
